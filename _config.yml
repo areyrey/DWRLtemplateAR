@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My homepage"
+title                    : "Autumn H. Reyes"
 title_separator          : "-"
 name                     : "Name1 Name2"
 description              : "Name's academic homepage"
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Name1 Name2"
+  name             : "Autumn H. Reyes"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of CSS"
-  location         : 
-  employer         : 
+  bio              : "B.A. in English / M. A. in English / Ph.D. Student 2026"
+  location         : "Austin, TX"
+  employer         : "UT Austin"
   email            : "email@email.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -127,7 +127,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "@fall_reyna"
   vine             :
   weibo            :
   xing             :
